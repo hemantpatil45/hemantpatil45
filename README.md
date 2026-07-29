@@ -1,78 +1,281 @@
 <!--
-  GitHub Profile README for Hemant Maruti Patil
-  Place this file in a repository named exactly your GitHub username
-  (e.g. github.com/YOUR_USERNAME/YOUR_USERNAME) to have it appear on your profile page.
-  Replace YOUR_GITHUB_USERNAME, YOUR_LINKEDIN, and your email below.
+  GitHub Profile README — Hemant Maruti Patil
+  Drop this file into a repo named exactly:  <your-username>/<your-username>
+  Then replace every "hemantmarutipatil" below with your real GitHub handle.
 -->
 
-<h1 align="center">Hemant Maruti Patil</h1>
-<p align="center"><b>Embedded Systems Engineer · Firmware Developer · Space Technology Enthusiast</b></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=33E8FF&center=true&vCenter=true&width=650&lines=Embedded+Firmware;Embedded+Linux;STM32+%7C+ESP32+%7C+ARM+Cortex-M;UART+%C2%B7+SPI+%C2%B7+I2C+%C2%B7+CAN+%C2%B7+RS485;Real-Time+Systems;Space+%26+Satellite+Electronics" alt="Typing SVG" />
+<a href="https://github.com/hemantmarutipatil">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0a2540,100:0891b2&height=220&section=header&text=Hemant%20Maruti%20Patil&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Embedded%20Systems%20%C2%B7%20Firmware%20%C2%B7%20Space%20Electronics&descAlignY=60&descSize=16&animation=fadeIn" alt="banner" />
+</a>
+
+<br/>
+
+<a href="https://github.com/hemantmarutipatil">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=500&color=22D3EE&center=true&vCenter=true&width=760&lines=Embedded+Systems+Engineer;Firmware+Developer+%7C+Electronics+Enthusiast;STM32+%C2%B7+ESP32+%C2%B7+ARM+Cortex-M;UART+%C2%B7+SPI+%C2%B7+I2C+%C2%B7+CAN+%C2%B7+RS485+%C2%B7+Ethernet;Embedded+Linux+%C2%B7+RTOS+%C2%B7+Low-Level+Programming;Space+Technology+%7C+Satellite+Systems+Enthusiast" alt="typing" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-Firmware-050816?style=flat-square&labelColor=050816&color=22D3EE&logoColor=white" />
+<img src="https://img.shields.io/badge/-Embedded%20Linux-050816?style=flat-square&labelColor=050816&color=22D3EE&logoColor=white" />
+<img src="https://img.shields.io/badge/-STM32-050816?style=flat-square&labelColor=050816&color=22D3EE&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/-ESP32-050816?style=flat-square&labelColor=050816&color=22D3EE&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/-ARM%20Cortex--M-050816?style=flat-square&labelColor=050816&color=22D3EE&logo=arm&logoColor=white" />
+<img src="https://img.shields.io/badge/-Space%20Tech-050816?style=flat-square&labelColor=050816&color=A3E635&logoColor=white" />
+
+<br/>
+
+<a href="https://github.com/hemantmarutipatil"><img src="https://img.shields.io/github/followers/hemantmarutipatil?label=Follow&style=social" /></a>
+<img src="https://komarev.com/ghpvc/?username=hemantmarutipatil&color=22D3EE&style=flat-square&label=Profile+Views" />
+
+</div>
+
+---
+
+## 🛰️ About Me
+
+```c
+struct engineer {
+    char name[]      = "Hemant Maruti Patil";
+    char role[]      = "Embedded Systems Engineer";
+    char focus[]     = "Firmware · Electronics · Space Tech";
+    char writing[]   = "C / Embedded C / Python / Shell";
+    char debugging[] = "GDB, ST-Link, JTAG, Logic Analyzer, Scope";
+    char learning[]  = "STM32H7, Embedded Linux, Device Drivers, FPGA";
+    char loves[]     = "Satellite On-Board Computers & Real-Time Systems";
+};
+```
+
+I&apos;m an **Embedded Systems Engineer** who enjoys living close to the hardware —
+writing firmware, bringing up boards, and debugging the last few nanoseconds
+off a signal edge. My focus is **STM32 / ESP32 firmware**, **communication
+protocols** (UART, SPI, I²C, CAN, RS485, Ethernet), **PCB design**, and
+low-level development on **Embedded Linux**.
+
+I&apos;m especially drawn to **satellite electronics** and **on-board computers** —
+the kind of firmware that has to work the first time, every time.
+
+> I write code that is deterministic, memory-aware, and honest about its
+> constraints. This profile reflects what I&apos;ve actually built and learned —
+> not claims I can&apos;t back with a scope trace.
+
+---
+
+## 🔧 Core Skills
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+- C · Embedded C
+- Python · Shell
+- Learning Verilog
+
+**Microcontrollers**
+- STM32 · STM32H7
+- ESP32 · LPC2478
+- ARM Cortex-M
+
+**RTOS / OS**
+- FreeRTOS
+- Embedded Linux
+- Ubuntu
+
+</td>
+<td valign="top" width="33%">
+
+**Protocols**
+- UART · SPI · I²C
+- CAN · RS232 · RS485
+- USB · Ethernet · RMII
+
+**Peripherals**
+- GPIO · PWM · ADC · DMA
+- Timers · Interrupts
+- Flash · EEPROM · RTC · Watchdog
+
+**Low-Level**
+- Boot Process · Bootloaders
+- Memory Mapping · Linker Scripts
+- Device Drivers
+
+</td>
+<td valign="top" width="33%">
+
+**Debug / Bring-up**
+- ST-Link · JTAG · GDB
+- Logic Analyzer · Oscilloscope
+- Hardware Bring-up
+
+**PCB / Hardware**
+- EasyEDA · Proteus
+- Power Electronics (basics)
+- Signal Integrity (basics)
+
+**Dev Tools**
+- STM32CubeIDE · Keil · VS Code
+- Git · GitHub · Linux
+- Node-RED · Blender
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C-050816?style=for-the-badge&logo=c&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Embedded_C-050816?style=for-the-badge&logo=c&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Shell-050816?style=for-the-badge&logo=gnubash&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Verilog-050816?style=for-the-badge&logoColor=22D3EE" />
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-33E8FF?style=for-the-badge&logo=gmail&logoColor=050816" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-39FFB0?style=for-the-badge&logo=vercel&logoColor=050816" /></a>
+<p>
+  <img src="https://img.shields.io/badge/STM32-050816?style=for-the-badge&logo=stmicroelectronics&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/ESP32-050816?style=for-the-badge&logo=espressif&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/ARM-050816?style=for-the-badge&logo=arm&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/FreeRTOS-050816?style=for-the-badge&logo=freertos&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Embedded_Linux-050816?style=for-the-badge&logo=linux&logoColor=22D3EE" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/UART-050816?style=for-the-badge&color=0891b2" />
+  <img src="https://img.shields.io/badge/SPI-050816?style=for-the-badge&color=0891b2" />
+  <img src="https://img.shields.io/badge/I²C-050816?style=for-the-badge&color=0891b2" />
+  <img src="https://img.shields.io/badge/CAN-050816?style=for-the-badge&color=0891b2" />
+  <img src="https://img.shields.io/badge/RS485-050816?style=for-the-badge&color=0891b2" />
+  <img src="https://img.shields.io/badge/USB-050816?style=for-the-badge&color=0891b2" />
+  <img src="https://img.shields.io/badge/Ethernet-050816?style=for-the-badge&color=0891b2" />
+  <img src="https://img.shields.io/badge/RMII-050816?style=for-the-badge&color=0891b2" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/STM32CubeIDE-050816?style=for-the-badge&logo=stmicroelectronics&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Keil-050816?style=for-the-badge&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/VS_Code-050816?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Ubuntu-050816?style=for-the-badge&logo=ubuntu&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Git-050816?style=for-the-badge&logo=git&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/EasyEDA-050816?style=for-the-badge&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Proteus-050816?style=for-the-badge&logoColor=22D3EE" />
 </p>
 
 ---
 
-### About Me
+## 🚀 Featured Projects
 
-I'm an M.Sc. Electronic Science student and embedded systems engineer focused on **firmware close to the hardware** — microcontroller drivers, communication protocols, and bare-metal software.
+### 🛰️ ISRO Payload On-Board Computer
+STM32-based on-board computer for a satellite payload — telemetry acquisition,
+command handling, flash memory management, ADC/DMA pipelines, and an RTOS
+scheduler.
+`STM32` · `FreeRTOS` · `ADC` · `DMA` · `Flash` · `Telemetry`
 
-- 🔧 Working with **STM32, ESP32, and LPC2478**, ARM Cortex-M, and embedded C
-- 📡 Comfortable across **UART, SPI, I2C, CAN, RS232/RS485, USB, Ethernet, RMII**
-- 🐧 Building fundamentals in **Embedded Linux, FreeRTOS, and device drivers**
-- 🛰️ Interested in **satellite electronics** — on-board computers, telemetry, and command systems — as an extension of embedded systems discipline, not a claimed professional domain
-- 🧰 Hardware debugging with **JTAG, ST-Link, GDB, logic analyzers, and oscilloscopes**
-- 📚 Currently deepening: STM32H7, Linux device drivers, ARM architecture, USB, CAN, RTOS internals, and Verilog/FPGA basics
+### 🌐 Ethernet Driver Development (LPC2478 / RMII)
+Ground-up Ethernet driver — building frames, transmitting packets, and hunting
+CRC errors with a logic analyzer.
+`LPC2478` · `RMII` · `Ethernet` · `CRC` · `Low-Level Debug`
 
----
+### 🔐 ESP32 Electronic Voting Machine
+Secure EVM prototype with encrypted flash storage, LCD UI, and a roadmap for
+authenticated Wi-Fi vote sync.
+`ESP32` · `Secure Flash` · `LCD` · `Wi-Fi (WIP)`
 
-### Core Skills
+### 🚦 Smart Traffic IoT
+Sensor-driven traffic node streaming to Firebase — congestion signals, adaptive
+timing, and a dashboard view.
+`ESP32` · `Firebase` · `Sensors`
 
-**Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-33E8FF?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-learning-39FFB0?style=flat-square)
+### 💧 Water Control Automation
+Remote pump control with an Android front-end and Firebase backbone — safe
+state machine, timers, and manual override.
+`ESP32` · `Firebase` · `Android`
 
-**Microcontrollers:** ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![LPC2478](https://img.shields.io/badge/LPC2478-33E8FF?style=flat-square) ![ARM Cortex-M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white)
-
-**Protocols:** UART · SPI · I2C · CAN · RS232 · RS485 · USB · Ethernet · RMII · GPIO · ADC · DMA
-
-**Tools:** STM32CubeIDE · Keil · VS Code · Git & GitHub · Ubuntu Linux · EasyEDA · Proteus · Node-RED · ST-Link · JTAG · GDB
-
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Ethernet Driver Bring-up (LPC2478)** | Bare-metal Ethernet driver over a DP83848C PHY in RMII mode; debugged frame-length and buffer-overflow issues | `LPC2478` `RMII` `Bare-metal C` |
-| **Payload On-Board Computer (STM32)** | STM32 firmware concept for telemetry/command handling — flash management, ADC, DMA, RTOS | `STM32` `RTOS` `DMA` |
-| **ESP32 Electronic Voting Machine** | Secure flash-based vote storage with LCD interface, Wi-Fi reporting planned | `ESP32` `Flash` `LCD` |
-| **Smart Traffic IoT** | Sensor-driven traffic system with Firebase backend | `ESP32` `Firebase` |
-| **Water Control Automation** | Automated water control with Firebase sync and Android app | `ESP32` `Firebase` `Android` |
-| **LoRa Point-to-Point Link** | Long-range wireless communication over SX1278 | `SX1278` `LoRa` |
+### 📡 LoRa Communication
+Long-range wireless link using SX1278 modules — configurable spreading factor,
+packet framing, and range testing.
+`SX1278` · `LoRa` · `Firmware`
 
 ---
 
-### GitHub Stats
+## 📚 Currently Learning
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&bg_color=0a1128&title_color=33e8ff&icon_color=39ffb0&text_color=8ea0c9&border_color=1c2b52" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&bg_color=0a1128&title_color=33e8ff&text_color=8ea0c9&border_color=1c2b52" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&background=0a1128&ring=33e8ff&fire=39ffb0&currStreakLabel=33e8ff&border=1c2b52" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0a1128&color=33e8ff&line=39ffb0&point=eef2ff&border=1c2b52" />
-</p>
+`STM32H7`  ·  `Embedded Linux`  ·  `Linux Device Drivers`  ·  `ARM Architecture`
+`Memory Management`  ·  `USB`  ·  `CAN`  ·  `Ethernet`  ·  `RTOS`
+`FPGA Basics`  ·  `Verilog`  ·  `Raspberry Pi`  ·  `Kernel Concepts`
 
 ---
 
-<p align="center"><i>Building reliable embedded firmware, communication systems, and low-level software for next-generation electronics.</i></p>
+## 🌌 Passion for Space Technology
+
+Space is where embedded engineering has to be at its most honest — every byte,
+every joule, every interrupt matters. I&apos;m drawn to:
+
+- 🛰️ Satellite Electronics & On-Board Computers
+- 📡 Telemetry & Command Systems
+- ⚙️ Reliable Embedded Firmware for harsh environments
+- ⏱️ Real-Time Systems
+- 🚀 Future Space Missions
+
+> My interest in space is backed by real embedded work — I don&apos;t claim
+> professional aerospace experience beyond my actual projects.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hemantmarutipatil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=22D3EE&icon_color=A3E635&text_color=E6F6FF" />
+<img height="180" src="https://streak-stats.demolab.com?user=hemantmarutipatil&theme=tokyonight&hide_border=true&background=050816&stroke=22D3EE&ring=A3E635&fire=A3E635&currStreakLabel=22D3EE" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantmarutipatil&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E6F6FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=hemantmarutipatil&theme=tokyonight&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E6F6FF" />
+
+<br/><br/>
+
+**📈 Contribution Activity**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemantmarutipatil&theme=tokyo-night&hide_border=true&bg_color=050816&color=22D3EE&line=A3E635&point=ffffff&area=true" />
+
+<br/>
+
+**🏆 Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=hemantmarutipatil&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+<a href="https://github.com/hemantmarutipatil">
+  <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=22D3EE" />
+</a>
+<a href="https://linkedin.com/in/hemantmarutipatil">
+  <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
+</a>
+<a href="mailto:hemant.patil@example.com">
+  <img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=22D3EE" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Résumé-050816?style=for-the-badge&logo=readthedocs&logoColor=A3E635" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0a2540,100:050816&height=110&section=footer&text=system.status%20%3D%20NOMINAL&fontColor=A3E635&fontSize=16&fontAlignY=70&animation=fadeIn" />
+
+<sub>⚡ <i>Built like firmware: deterministic, memory-aware, and honest about its constraints.</i></sub>
+
+</div>
