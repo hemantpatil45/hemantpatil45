@@ -261,7 +261,7 @@ every joule, every interrupt matters. I&apos;m drawn to:
 <a href="https://linkedin.com/in/hemantpatil45">
   <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
 </a>
-<a href="mailto:hemant.patil@example.com">
+<a href="mailto:hemantpatil1045@gmail.com">
   <img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=22D3EE" />
 </a>
 <a href="#">
