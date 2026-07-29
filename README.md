@@ -27,7 +27,7 @@
 
 <br/>
 
-<a href="https://github.com/hemantmarutipatil"><img src="https://img.shields.io/github/followers/hemantmarutipatil?label=Follow&style=social" /></a>
+<a href="https://github.com/hemantmarutipatil"><img src="https://img.shields.io/github/followers/hemantpatil45?label=Follow&style=social" /></a>
 <img src="https://komarev.com/ghpvc/?username=hemantmarutipatil&color=22D3EE&style=flat-square&label=Profile+Views" />
 
 </div>
