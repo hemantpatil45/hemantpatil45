@@ -1,7 +1,7 @@
 <!--
   GitHub Profile README — Hemant Maruti Patil
   Drop this file into a repo named exactly:  <your-username>/<your-username>
-  Then replace every "hemantmarutipatil" below with your real GitHub handle.
+  Then replace every "hemantpatil45" below with your real GitHub handle.
 -->
 
 <div align="center">
@@ -27,8 +27,8 @@
 
 <br/>
 
-<a href="https://github.com/hemantmarutipatil"><img src="https://img.shields.io/github/followers/hemantpatil45?label=Follow&style=social" /></a>
-<img src="https://komarev.com/ghpvc/?username=hemantmarutipatil&color=22D3EE&style=flat-square&label=Profile+Views" />
+<a href="https://github.com/hemantpatil45"><img src="https://img.shields.io/github/followers/hemantpatil45?label=Follow&style=social" /></a>
+<img src="https://komarev.com/ghpvc/?username=hemantpatil45&color=22D3EE&style=flat-square&label=Profile+Views" />
 
 </div>
 
@@ -227,13 +227,13 @@ every joule, every interrupt matters. I&apos;m drawn to:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hemantmarutipatil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=22D3EE&icon_color=A3E635&text_color=E6F6FF" />
-<img height="180" src="https://streak-stats.demolab.com?user=hemantmarutipatil&theme=tokyonight&hide_border=true&background=050816&stroke=22D3EE&ring=A3E635&fire=A3E635&currStreakLabel=22D3EE" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hemantpatil45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=22D3EE&icon_color=A3E635&text_color=E6F6FF" />
+<img height="180" src="https://streak-stats.demolab.com?user=hemantpatil45&theme=tokyonight&hide_border=true&background=050816&stroke=22D3EE&ring=A3E635&fire=A3E635&currStreakLabel=22D3EE" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantmarutipatil&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E6F6FF" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=hemantmarutipatil&theme=tokyonight&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E6F6FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantpatil45&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E6F6FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=hemantpatil45&theme=tokyonight&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E6F6FF" />
 
 <br/><br/>
 
@@ -245,7 +245,7 @@ every joule, every interrupt matters. I&apos;m drawn to:
 
 **🏆 Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=hemantmarutipatil&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=hemantpatil45&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
@@ -255,10 +255,10 @@ every joule, every interrupt matters. I&apos;m drawn to:
 
 <div align="center">
 
-<a href="https://github.com/hemantmarutipatil">
+<a href="https://github.com/hemantpatil45">
   <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
-<a href="https://linkedin.com/in/hemantmarutipatil">
+<a href="https://linkedin.com/in/hemantpatil45">
   <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
 </a>
 <a href="mailto:hemant.patil@example.com">
