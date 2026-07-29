@@ -6,13 +6,13 @@
 
 <div align="center">
 
-<a href="https://github.com/hemantmarutipatil">
+<a href="https://github.com/hemantpatil45">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0a2540,100:0891b2&height=220&section=header&text=Hemant%20Maruti%20Patil&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Embedded%20Systems%20%C2%B7%20Firmware%20%C2%B7%20Space%20Electronics&descAlignY=60&descSize=16&animation=fadeIn" alt="banner" />
 </a>
 
 <br/>
 
-<a href="https://github.com/hemantmarutipatil">
+<a href="https://github.com/hemantpatil45">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=500&color=22D3EE&center=true&vCenter=true&width=760&lines=Embedded+Systems+Engineer;Firmware+Developer+%7C+Electronics+Enthusiast;STM32+%C2%B7+ESP32+%C2%B7+ARM+Cortex-M;UART+%C2%B7+SPI+%C2%B7+I2C+%C2%B7+CAN+%C2%B7+RS485+%C2%B7+Ethernet;Embedded+Linux+%C2%B7+RTOS+%C2%B7+Low-Level+Programming;Space+Technology+%7C+Satellite+Systems+Enthusiast" alt="typing" />
 </a>
 
